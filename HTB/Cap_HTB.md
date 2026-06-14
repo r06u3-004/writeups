@@ -125,6 +125,6 @@
   root@cap:/root# ls
   root.txt  snap
   root@cap:/root# cat root.txt
-  51ad43dcba0e0d9135672f54967d3d04
+  51XXXXXXXXXXXXXXXXXXX
 
   ```
